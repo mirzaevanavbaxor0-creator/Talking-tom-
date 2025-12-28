@@ -1,0 +1,7 @@
+{
+  "name": "Talking Tom AI 3D",
+  "description": "An interactive 3D cat experience powered by Gemini Live API. Talk to Tom, poke him, and feed him treats in this modern reimagining of the classic game.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
